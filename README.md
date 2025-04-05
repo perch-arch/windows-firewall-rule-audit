@@ -36,6 +36,7 @@ It highlights differences in user-specified rule properties such as `DisplayName
 
 2. Run the script:
 
+    ```bash
     ./audit-firewall.ps1
 
 
